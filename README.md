@@ -1,20 +1,20 @@
-# Sistema de Doações
+# Sistema de Contribuição
 
-Aplicação para gerenciar doações incluindo o cadastro dos doadores e também um sistema de relatório e sorteio entre os doadores.
+Aplicação para gerenciar as contribuições incluindo o cadastro dos contribuintes e também um sistema de relatório e sorteio entre os constribuintes.
 
 ## Interface
 
-Tela inicial com os doadores cadastrados e as configurações
+Tela inicial com os contribuintes cadastrados e as configurações
 
 ![01](https://user-images.githubusercontent.com/74942532/139558201-e437fd1c-2656-4ded-bc53-b3604d640f41.png)
 
 ![001](https://user-images.githubusercontent.com/74942532/139558246-b325b465-bff3-4916-a17f-b78cf29259b5.png)
 
-Tela de cadastro dos doadores
+Tela de cadastro dos contribuintes
 
 ![02](https://user-images.githubusercontent.com/74942532/139558254-24cd7afc-0729-4ab7-95d6-9163e02b07de.png)
 
-Tela com as doações
+Tela com as contribuições
 
 ![03](https://user-images.githubusercontent.com/74942532/139558267-eaef2307-87f3-4c3f-afbf-c7d12dea3022.png)
 
@@ -32,15 +32,15 @@ Tela com os sorteios efetuados
 
 ## Quais são as funções?
 
-Sistema completo de doaçãoes podendo adicionar doadores, gerenciar doadores e as doações com um relatório completo e um sistema de sorteio entre os doadores. 
+Sistema completo de contribuição podendo adicionar contribuintes, gerenciar contribuintes e as contribuiçoes com um relatório completo e um sistema de sorteio entre os constribuintes. 
 
 ## Antes de rodar o projeto
 
 `1` Para rodar o projeto, utilizamos o Wamp(https://www.wampserver.com/en/) como nosso servidor local. O wamp por padrão pode gerar portas diferentes das
-configuradas no projeto, por isso vá ao arquivo no diretório `\sistema-de-doacoes-php\conexao\conexao_bd.php` e configure a variável `$servidor` com localhost e porta
+configuradas no projeto, por isso vá ao arquivo no diretório `\sistema-de-contribuicao-php\conexao\conexao_bd.php` e configure a variável `$servidor` com localhost e porta
 específica que o Wamp gerou na sua máquina.
 
-`2` Importe o banco de dados localizado no diretório `\sistema-de-doacoes-php\banco_de_dados\sdd.sql` para o MySql
+`2` Importe o banco de dados localizado no diretório `\sistema-de-contribuicao-php\banco_de_dados\sdd.sql` para o MySql
 
 Logo após as etapas, rode o projeto acessando o localhost do Wamp e aproveite.
 
