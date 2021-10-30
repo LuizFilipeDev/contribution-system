@@ -1,6 +1,6 @@
 # Sistema de Contribuição
 
-Aplicação para gerenciar as contribuições incluindo o cadastro dos contribuintes e também um sistema de relatório e sorteio entre os constribuintes.
+Aplicação para gerenciar as contribuições incluindo o cadastro dos contribuintes e também um sistema de relatório e sorteio entre os contribuintes.
 
 ## Interface
 
