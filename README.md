@@ -32,7 +32,7 @@ Tela com os sorteios efetuados
 
 ## Quais são as funções?
 
-Sistema completo de contribuição podendo adicionar contribuintes, gerenciar contribuintes e as contribuiçoes com um relatório completo e um sistema de sorteio entre os constribuintes. 
+Sistema completo de contribuição podendo adicionar contribuintes, gerenciar contribuintes e as contribuiçoes com um relatório completo e um sistema de sorteio entre os contribuintes. 
 
 ## Antes de rodar o projeto
 
