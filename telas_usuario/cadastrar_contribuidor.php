@@ -20,7 +20,7 @@
 
         <!--INPUTS PARA CADASTRAR NOVOS CONTRIBUIDORES-->
 
-        <div id = "cadastrar-contribuidor" class = "col-sm-4 col-md-4 col-lg-4 col-xl-4 offset-sm-4 offset-md-4 offset-lg-4 offset-xl-4">
+        <div id = "cadastrar-contribuidor" class = "col-sm-12 col-md-12 col-lg-12 col-xl-8 offset-xl-2">
 
             <form action="" method = "POST">
 
